@@ -1,0 +1,42 @@
+
+.font{
+  width: 30%;
+}
+.align{
+    float: right;
+}
+.half-width{
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.half-width img{
+  width: 70%;
+
+}
+.col{
+  color: rgb(245, 158, 65);
+}
+.middle-area{
+  width: 30%;
+  margin-top: 2%;
+  margin-left: 50px;
+}
+.p{
+  margin-top: 20px;
+}
+.col-two{
+width: 33.33%;
+
+}
+.thrice-width img{
+  width:50% ;
+}
+.thrice-width{
+  width: 40%;
+  float: left;
+  margin-left: 2%;
+  padding-left: 1%;
+}
+
